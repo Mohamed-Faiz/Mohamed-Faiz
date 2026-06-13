@@ -1,4 +1,3 @@
-```markdown
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Faiz;Developer+%7C+Open+Source+Contributor+%7C+Aspiring+Entrepreneur)](https://git.io/typing-svg)
 
 ![From](https://img.shields.io/badge/From-Bengaluru%2C_India-blue?style=flat-square)
@@ -9,28 +8,22 @@
 
 ### ⚡ About Me
 
-&#96;&#96;&#96;
 name: Mohamed Faiz
 located_in: Bengaluru, India
-education: Your Degree @ Your College
 fields_of_interest:
-  - Open Source Contribution
   - Web Development
   - Building Developer Tools
-  - System Design
+  - Agentic AI
 currently_learning:
-  - JavaScript / Node.js
   - Open Source workflows
   - Git and GitHub best practices
-building: FirstMerge - a platform for beginner open-source contributors
-reach_me: your@email.com
-&#96;&#96;&#96;
+reach_me: faiznwking@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack
 
-[![](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,react,vue,aws,azure,gcp,docker,py,linux,windows,go)](https://skillicons.dev)
 
 ---
 
@@ -65,4 +58,3 @@ reach_me: your@email.com
 
 *"The best way to get started is to quit talking and begin doing."*
 — Walt Disney
-```
