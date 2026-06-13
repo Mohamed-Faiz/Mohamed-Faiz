@@ -7,13 +7,14 @@
 
 ### ⚡ About Me
 
-name: Mohamed Faiz
-located_in: Bengaluru, India
-fields_of_interest:
+- name: Mohamed Faiz
+- located_in: Bengaluru, India
+- fields_of_interest:
   - Web Development
   - Building Developer Tools
   - Agentic AI
-reach_me: faiznwking@gmail.com
+  - Cybersecurity
+- reach_me: faiznwking@gmail.com
 
 ---
 
