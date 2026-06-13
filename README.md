@@ -13,9 +13,6 @@ fields_of_interest:
   - Web Development
   - Building Developer Tools
   - Agentic AI
-currently_learning:
-  - Open Source workflows
-  - Git and GitHub best practices
 reach_me: faiznwking@gmail.com
 
 ---
